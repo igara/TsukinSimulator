@@ -1,0 +1,57 @@
+# Created with FME Version: FME(R) 2020.2.0.0 20201027 - Build 20787 - WIN64
+newmtl shib0003
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0003.png
+
+newmtl shib4417
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4417.png
+
+newmtl shib0892
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0892.png
+
+newmtl shib4536
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4536.png
+
+newmtl shib4322
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4322.png
+
+newmtl shib0901
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0901.png
+
+newmtl shib0902
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0902.png
+
+newmtl shib0352
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0352.png
+
+newmtl shib1602
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1602.png
+
+newmtl shib1647
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1647.png
+
+newmtl shib4323
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4323.png
+
+newmtl shib4362
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4362.png
+
+newmtl shib0002
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0002.png
+
+newmtl shib1601
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1601.png
+

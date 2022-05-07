@@ -1,0 +1,1809 @@
+# Created with FME Version: FME(R) 2021.1.0.0 20210630 - Build 21607 - WIN64
+newmtl shib4373
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4373.jpg
+
+newmtl shib0092
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0092.jpg
+
+newmtl shib0934
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0934.jpg
+
+newmtl shib4337
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4337.jpg
+
+newmtl shib4364
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4364.jpg
+
+newmtl shib0159
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0159.jpg
+
+newmtl shib4459
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4459.jpg
+
+newmtl shib0887
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0887.jpg
+
+newmtl shib0102
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0102.jpg
+
+newmtl shib0959
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0959.jpg
+
+newmtl shib4681
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4681.jpg
+
+newmtl shib4374
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4374.jpg
+
+newmtl shib0967
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0967.jpg
+
+newmtl shib1060
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1060.jpg
+
+newmtl shib4572
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4572.jpg
+
+newmtl shib0162
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0162.jpg
+
+newmtl shib0087
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0087.jpg
+
+newmtl shib1053
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1053.jpg
+
+newmtl shib0034
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0034.jpg
+
+newmtl shib4370
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4370.jpg
+
+newmtl shib4581
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4581.jpg
+
+newmtl shib4355
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4355.jpg
+
+newmtl shib1005
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1005.jpg
+
+newmtl shib1024
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1024.jpg
+
+newmtl shib0958
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0958.jpg
+
+newmtl shib4545
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4545.jpg
+
+newmtl shib4490
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4490.jpg
+
+newmtl shib1000
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1000.jpg
+
+newmtl shib4340
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4340.jpg
+
+newmtl shib4544
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4544.jpg
+
+newmtl shib0187
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0187.jpg
+
+newmtl shib0169
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0169.jpg
+
+newmtl shib4338
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4338.jpg
+
+newmtl shib4363
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4363.jpg
+
+newmtl shib0107
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0107.jpg
+
+newmtl shib0056
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0056.jpg
+
+newmtl shib1040
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1040.jpg
+
+newmtl shib0152
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0152.jpg
+
+newmtl shib0055
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0055.jpg
+
+newmtl shib0984
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0984.jpg
+
+newmtl shib4371
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4371.jpg
+
+newmtl shib1637
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1637.jpg
+
+newmtl shib0123
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0123.jpg
+
+newmtl shib1059
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1059.jpg
+
+newmtl shib1043
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1043.jpg
+
+newmtl shib1050
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1050.jpg
+
+newmtl shib1062
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1062.jpg
+
+newmtl shib0952
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0952.jpg
+
+newmtl shib0113
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0113.jpg
+
+newmtl shib4590
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4590.jpg
+
+newmtl shib0066
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0066.jpg
+
+newmtl shib0923
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0923.jpg
+
+newmtl shib4357
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4357.jpg
+
+newmtl shib0138
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0138.jpg
+
+newmtl shib0274
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0274.jpg
+
+newmtl shib0174
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0174.jpg
+
+newmtl shib0997
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0997.jpg
+
+newmtl shib0195
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0195.jpg
+
+newmtl shib4349
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4349.jpg
+
+newmtl shib0974
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0974.jpg
+
+newmtl shib1016
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1016.jpg
+
+newmtl shib1007
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1007.jpg
+
+newmtl shib1036
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1036.jpg
+
+newmtl shib4456
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4456.jpg
+
+newmtl shib0042
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0042.jpg
+
+newmtl shib0096
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0096.jpg
+
+newmtl shib4592
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4592.jpg
+
+newmtl shib0903
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0903.jpg
+
+newmtl shib0048
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0048.jpg
+
+newmtl shib4593
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4593.jpg
+
+newmtl shib0972
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0972.jpg
+
+newmtl shib4549
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4549.jpg
+
+newmtl shib1645
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1645.jpg
+
+newmtl shib0010
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0010.jpg
+
+newmtl shib1653
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1653.jpg
+
+newmtl shib0153
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0153.jpg
+
+newmtl shib0936
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0936.jpg
+
+newmtl shib0124
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0124.jpg
+
+newmtl shib0925
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0925.jpg
+
+newmtl shib0998
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0998.jpg
+
+newmtl shib1020
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1020.jpg
+
+newmtl shib1051
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1051.jpg
+
+newmtl shib1065
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1065.jpg
+
+newmtl shib4577
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4577.jpg
+
+newmtl shib1004
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1004.jpg
+
+newmtl shib4458
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4458.jpg
+
+newmtl shib0940
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0940.jpg
+
+newmtl shib0095
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0095.jpg
+
+newmtl shib1013
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1013.jpg
+
+newmtl shib4551
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4551.jpg
+
+newmtl shib0201
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0201.jpg
+
+newmtl shib4575
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4575.jpg
+
+newmtl shib1021
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1021.jpg
+
+newmtl shib0122
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0122.jpg
+
+newmtl shib1041
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1041.jpg
+
+newmtl shib4589
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4589.jpg
+
+newmtl shib4596
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4596.jpg
+
+newmtl shib4639
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4639.jpg
+
+newmtl shib1639
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1639.jpg
+
+newmtl shib0200
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0200.jpg
+
+newmtl shib0891
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0891.jpg
+
+newmtl shib0888
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0888.jpg
+
+newmtl shib0021
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0021.jpg
+
+newmtl shib0960
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0960.jpg
+
+newmtl shib0969
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0969.jpg
+
+newmtl shib0987
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0987.jpg
+
+newmtl shib0031
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0031.jpg
+
+newmtl shib4353
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4353.jpg
+
+newmtl shib0968
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0968.jpg
+
+newmtl shib1554
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1554.jpg
+
+newmtl shib0996
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0996.jpg
+
+newmtl shib1010
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1010.jpg
+
+newmtl shib4595
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4595.jpg
+
+newmtl shib0075
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0075.jpg
+
+newmtl shib4579
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4579.jpg
+
+newmtl shib4344
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4344.jpg
+
+newmtl shib4598
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4598.jpg
+
+newmtl shib0103
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0103.jpg
+
+newmtl shib0019
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0019.jpg
+
+newmtl shib0157
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0157.jpg
+
+newmtl shib0942
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0942.jpg
+
+newmtl shib0085
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0085.jpg
+
+newmtl shib0965
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0965.jpg
+
+newmtl shib0110
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0110.jpg
+
+newmtl shib0099
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0099.jpg
+
+newmtl shib4585
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4585.jpg
+
+newmtl shib1646
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1646.jpg
+
+newmtl shib4684
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4684.jpg
+
+newmtl shib0004
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0004.jpg
+
+newmtl shib4486
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4486.jpg
+
+newmtl shib0012
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0012.jpg
+
+newmtl shib0191
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0191.jpg
+
+newmtl shib1009
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1009.jpg
+
+newmtl shib0109
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0109.jpg
+
+newmtl shib0188
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0188.jpg
+
+newmtl shib4584
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4584.jpg
+
+newmtl shib0009
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0009.jpg
+
+newmtl shib0082
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0082.jpg
+
+newmtl shib0143
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0143.jpg
+
+newmtl shib0924
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0924.jpg
+
+newmtl shib0119
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0119.jpg
+
+newmtl shib0071
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0071.jpg
+
+newmtl shib0975
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0975.jpg
+
+newmtl shib0160
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0160.jpg
+
+newmtl shib0047
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0047.jpg
+
+newmtl shib4350
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4350.jpg
+
+newmtl shib0144
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0144.jpg
+
+newmtl shib0956
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0956.jpg
+
+newmtl shib4327
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4327.jpg
+
+newmtl shib0971
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0971.jpg
+
+newmtl shib0935
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0935.jpg
+
+newmtl shib0941
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0941.jpg
+
+newmtl shib0052
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0052.jpg
+
+newmtl shib1642
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1642.jpg
+
+newmtl shib0088
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0088.jpg
+
+newmtl shib0156
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0156.jpg
+
+newmtl shib0078
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0078.jpg
+
+newmtl shib0977
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0977.jpg
+
+newmtl shib1027
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1027.jpg
+
+newmtl shib0029
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0029.jpg
+
+newmtl shib0995
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0995.jpg
+
+newmtl shib0126
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0126.jpg
+
+newmtl shib0141
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0141.jpg
+
+newmtl shib1012
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1012.jpg
+
+newmtl shib1038
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1038.jpg
+
+newmtl shib1039
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1039.jpg
+
+newmtl shib0115
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0115.jpg
+
+newmtl shib0128
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0128.jpg
+
+newmtl shib0885
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0885.jpg
+
+newmtl shib0014
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0014.jpg
+
+newmtl shib0904
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0904.jpg
+
+newmtl shib4495
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4495.jpg
+
+newmtl shib4403
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4403.jpg
+
+newmtl shib0060
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0060.jpg
+
+newmtl shib0112
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0112.jpg
+
+newmtl shib4348
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4348.jpg
+
+newmtl shib1048
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1048.jpg
+
+newmtl shib4361
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4361.jpg
+
+newmtl shib4547
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4547.jpg
+
+newmtl shib0050
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0050.jpg
+
+newmtl shib0135
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0135.jpg
+
+newmtl shib0086
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0086.jpg
+
+newmtl shib0108
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0108.jpg
+
+newmtl shib4351
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4351.jpg
+
+newmtl shib1026
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1026.jpg
+
+newmtl shib0064
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0064.jpg
+
+newmtl shib0098
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0098.jpg
+
+newmtl shib1008
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1008.jpg
+
+newmtl shib0068
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0068.jpg
+
+newmtl shib1064
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1064.jpg
+
+newmtl shib0039
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0039.jpg
+
+newmtl shib1058
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1058.jpg
+
+newmtl shib1030
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1030.jpg
+
+newmtl shib0081
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0081.jpg
+
+newmtl shib0944
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0944.jpg
+
+newmtl shib0167
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0167.jpg
+
+newmtl shib4369
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4369.jpg
+
+newmtl shib0966
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0966.jpg
+
+newmtl shib0027
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0027.jpg
+
+newmtl shib4552
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4552.jpg
+
+newmtl shib0990
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0990.jpg
+
+newmtl shib0089
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0089.jpg
+
+newmtl shib1029
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1029.jpg
+
+newmtl shib0980
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0980.jpg
+
+newmtl shib1003
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1003.jpg
+
+newmtl shib0006
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0006.jpg
+
+newmtl shib0177
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0177.jpg
+
+newmtl shib0973
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0973.jpg
+
+newmtl shib1002
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1002.jpg
+
+newmtl shib0186
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0186.jpg
+
+newmtl shib0943
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0943.jpg
+
+newmtl shib0065
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0065.jpg
+
+newmtl shib0083
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0083.jpg
+
+newmtl shib4365
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4365.jpg
+
+newmtl shib1638
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1638.jpg
+
+newmtl shib0946
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0946.jpg
+
+newmtl shib0161
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0161.jpg
+
+newmtl shib1034
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1034.jpg
+
+newmtl shib0084
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0084.jpg
+
+newmtl shib0125
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0125.jpg
+
+newmtl shib0149
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0149.jpg
+
+newmtl shib1052
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1052.jpg
+
+newmtl shib0175
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0175.jpg
+
+newmtl shib0950
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0950.jpg
+
+newmtl shib0077
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0077.jpg
+
+newmtl shib4683
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4683.jpg
+
+newmtl shib0989
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0989.jpg
+
+newmtl shib4366
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4366.jpg
+
+newmtl shib4329
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4329.jpg
+
+newmtl shib0101
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0101.jpg
+
+newmtl shib4341
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4341.jpg
+
+newmtl shib1015
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1015.jpg
+
+newmtl shib0145
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0145.jpg
+
+newmtl shib0137
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0137.jpg
+
+newmtl shib0067
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0067.jpg
+
+newmtl shib1028
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1028.jpg
+
+newmtl shib0170
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0170.jpg
+
+newmtl shib0105
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0105.jpg
+
+newmtl shib4539
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4539.jpg
+
+newmtl shib4345
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4345.jpg
+
+newmtl shib0886
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0886.jpg
+
+newmtl shib0070
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0070.jpg
+
+newmtl shib4499
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4499.jpg
+
+newmtl shib0142
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0142.jpg
+
+newmtl shib0104
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0104.jpg
+
+newmtl shib4597
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4597.jpg
+
+newmtl shib4638
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4638.jpg
+
+newmtl shib0194
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0194.jpg
+
+newmtl shib0949
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0949.jpg
+
+newmtl shib0136
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0136.jpg
+
+newmtl shib0173
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0173.jpg
+
+newmtl shib1046
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1046.jpg
+
+newmtl shib0037
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0037.jpg
+
+newmtl shib0906
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0906.jpg
+
+newmtl shib1025
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1025.jpg
+
+newmtl shib0991
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0991.jpg
+
+newmtl shib0905
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0905.jpg
+
+newmtl shib0889
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0889.jpg
+
+newmtl shib4682
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4682.jpg
+
+newmtl shib0016
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0016.jpg
+
+newmtl shib0890
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0890.jpg
+
+newmtl shib0176
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0176.jpg
+
+newmtl shib0038
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0038.jpg
+
+newmtl shib0190
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0190.jpg
+
+newmtl shib0023
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0023.jpg
+
+newmtl shib0947
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0947.jpg
+
+newmtl shib0130
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0130.jpg
+
+newmtl shib4354
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4354.jpg
+
+newmtl shib0005
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0005.jpg
+
+newmtl shib4550
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4550.jpg
+
+newmtl shib0017
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0017.jpg
+
+newmtl shib0018
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0018.jpg
+
+newmtl shib4330
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4330.jpg
+
+newmtl shib1018
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1018.jpg
+
+newmtl shib1022
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1022.jpg
+
+newmtl shib4492
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4492.jpg
+
+newmtl shib4578
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4578.jpg
+
+newmtl shib4335
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4335.jpg
+
+newmtl shib1023
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1023.jpg
+
+newmtl shib0093
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0093.jpg
+
+newmtl shib0059
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0059.jpg
+
+newmtl shib4582
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4582.jpg
+
+newmtl shib4457
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4457.jpg
+
+newmtl shib0079
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0079.jpg
+
+newmtl shib0024
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0024.jpg
+
+newmtl shib0964
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0964.jpg
+
+newmtl shib4497
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4497.jpg
+
+newmtl shib4326
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4326.jpg
+
+newmtl shib0041
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0041.jpg
+
+newmtl shib0954
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0954.jpg
+
+newmtl shib4368
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4368.jpg
+
+newmtl shib0202
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0202.jpg
+
+newmtl shib0840
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0840.jpg
+
+newmtl shib0094
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0094.jpg
+
+newmtl shib0057
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0057.jpg
+
+newmtl shib4346
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4346.jpg
+
+newmtl shib0026
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0026.jpg
+
+newmtl shib0422
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0422.jpg
+
+newmtl shib0051
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0051.jpg
+
+newmtl shib4538
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4538.jpg
+
+newmtl shib4586
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4586.jpg
+
+newmtl shib0049
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0049.jpg
+
+newmtl shib0134
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0134.jpg
+
+newmtl shib0981
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0981.jpg
+
+newmtl shib0962
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0962.jpg
+
+newmtl shib0114
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0114.jpg
+
+newmtl shib0976
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0976.jpg
+
+newmtl shib0032
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0032.jpg
+
+newmtl shib4331
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4331.jpg
+
+newmtl shib4352
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4352.jpg
+
+newmtl shib4347
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4347.jpg
+
+newmtl shib1006
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1006.jpg
+
+newmtl shib0063
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0063.jpg
+
+newmtl shib4583
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4583.jpg
+
+newmtl shib0884
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0884.jpg
+
+newmtl shib4574
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4574.jpg
+
+newmtl shib4587
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4587.jpg
+
+newmtl shib1066
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1066.jpg
+
+newmtl shib0116
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0116.jpg
+
+newmtl shib0046
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0046.jpg
+
+newmtl shib1054
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1054.jpg
+
+newmtl shib4690
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4690.jpg
+
+newmtl shib0072
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0072.jpg
+
+newmtl shib4372
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4372.jpg
+
+newmtl shib1641
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1641.jpg
+
+newmtl shib1042
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1042.jpg
+
+newmtl shib1044
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1044.jpg
+
+newmtl shib0945
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0945.jpg
+
+newmtl shib1049
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1049.jpg
+
+newmtl shib0979
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0979.jpg
+
+newmtl shib4328
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4328.jpg
+
+newmtl shib0028
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0028.jpg
+
+newmtl shib0171
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0171.jpg
+
+newmtl shib4200
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4200.jpg
+
+newmtl shib4333
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4333.jpg
+
+newmtl shib1014
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1014.jpg
+
+newmtl shib0040
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0040.jpg
+
+newmtl shib0036
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0036.jpg
+
+newmtl shib0033
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0033.jpg
+
+newmtl shib0074
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0074.jpg
+
+newmtl shib4537
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4537.jpg
+
+newmtl shib4688
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4688.jpg
+
+newmtl shib1011
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1011.jpg
+
+newmtl shib4637
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4637.jpg
+
+newmtl shib1017
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1017.jpg
+
+newmtl shib0076
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0076.jpg
+
+newmtl shib4324
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4324.jpg
+
+newmtl shib1056
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1056.jpg
+
+newmtl shib0020
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0020.jpg
+
+newmtl shib4334
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4334.jpg
+
+newmtl shib0007
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0007.jpg
+
+newmtl shib4491
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4491.jpg
+
+newmtl shib0044
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0044.jpg
+
+newmtl shib0994
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0994.jpg
+
+newmtl shib0058
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0058.jpg
+
+newmtl shib0970
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0970.jpg
+
+newmtl shib1035
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1035.jpg
+
+newmtl shib0150
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0150.jpg
+
+newmtl shib4546
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4546.jpg
+
+newmtl shib0127
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0127.jpg
+
+newmtl shib0015
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0015.jpg
+
+newmtl shib0985
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0985.jpg
+
+newmtl shib0988
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0988.jpg
+
+newmtl shib0151
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0151.jpg
+
+newmtl shib4489
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4489.jpg
+
+newmtl shib0090
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0090.jpg
+
+newmtl shib1032
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1032.jpg
+
+newmtl shib4443
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4443.jpg
+
+newmtl shib1063
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1063.jpg
+
+newmtl shib0054
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0054.jpg
+
+newmtl shib0390
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0390.jpg
+
+newmtl shib0011
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0011.jpg
+
+newmtl shib4576
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4576.jpg
+
+newmtl shib0937
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0937.jpg
+
+newmtl shib0111
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0111.jpg
+
+newmtl shib0957
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0957.jpg
+
+newmtl shib0999
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0999.jpg
+
+newmtl shib4339
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4339.jpg
+
+newmtl shib4367
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4367.jpg
+
+newmtl shib0154
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0154.jpg
+
+newmtl shib1535
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1535.jpg
+
+newmtl shib0158
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0158.jpg
+
+newmtl shib0045
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0045.jpg
+
+newmtl shib0080
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0080.jpg
+
+newmtl shib0100
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0100.jpg
+
+newmtl shib4343
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4343.jpg
+
+newmtl shib0140
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0140.jpg
+
+newmtl shib0146
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0146.jpg
+
+newmtl shib0841
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0841.jpg
+
+newmtl shib1037
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1037.jpg
+
+newmtl shib4580
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4580.jpg
+
+newmtl shib0948
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0948.jpg
+
+newmtl shib0963
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0963.jpg
+
+newmtl shib4336
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4336.jpg
+
+newmtl shib4325
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4325.jpg
+
+newmtl shib1001
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1001.jpg
+
+newmtl shib4487
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4487.jpg
+
+newmtl shib0155
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0155.jpg
+
+newmtl shib4505
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4505.jpg
+
+newmtl shib4342
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4342.jpg
+
+newmtl shib0129
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0129.jpg
+
+newmtl shib0120
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0120.jpg
+
+newmtl shib0961
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0961.jpg
+
+newmtl shib0986
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0986.jpg
+
+newmtl shib0117
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0117.jpg
+
+newmtl shib0955
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0955.jpg
+
+newmtl shib0121
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0121.jpg
+
+newmtl shib4332
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4332.jpg
+
+newmtl shib0035
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0035.jpg
+
+newmtl shib0147
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0147.jpg
+
+newmtl shib0978
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0978.jpg
+
+newmtl shib1057
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1057.jpg
+
+newmtl shib0091
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0091.jpg
+
+newmtl shib4591
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4591.jpg
+
+newmtl shib0069
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0069.jpg
+
+newmtl shib0030
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0030.jpg
+
+newmtl shib1033
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1033.jpg
+
+newmtl shib4488
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4488.jpg
+
+newmtl shib4548
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4548.jpg
+
+newmtl shib0073
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0073.jpg
+
+newmtl shib1061
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1061.jpg
+
+newmtl shib0097
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0097.jpg
+
+newmtl shib0189
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0189.jpg
+
+newmtl shib0993
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0993.jpg
+
+newmtl shib1031
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1031.jpg
+
+newmtl shib0148
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0148.jpg
+
+newmtl shib1640
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1640.jpg
+
+newmtl shib0953
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0953.jpg
+
+newmtl shib0013
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0013.jpg
+
+newmtl shib0951
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0951.jpg
+
+newmtl shib0168
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0168.jpg
+
+newmtl shib4588
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4588.jpg
+
+newmtl shib0008
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0008.jpg
+
+newmtl shib0131
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0131.jpg
+
+newmtl shib0022
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0022.jpg
+
+newmtl shib4493
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib4493.jpg
+
+newmtl shib0118
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0118.jpg
+
+newmtl shib1047
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1047.jpg
+
+newmtl shib1055
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1055.jpg
+
+newmtl shib0192
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0192.jpg
+
+newmtl shib0172
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0172.jpg
+
+newmtl shib0982
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0982.jpg
+
+newmtl shib1045
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1045.jpg
+
+newmtl shib0061
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0061.jpg
+
+newmtl shib0025
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0025.jpg
+
+newmtl shib0992
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0992.jpg
+
+newmtl shib1019
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1019.jpg
+
+newmtl shib0139
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0139.jpg
+
+newmtl shib0062
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0062.jpg
+
+newmtl shib0043
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0043.jpg
+
+newmtl shib0193
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0193.jpg
+
+newmtl shib0106
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib0106.jpg
+

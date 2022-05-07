@@ -1,0 +1,29 @@
+# Created with FME Version: FME(R) 2020.2.0.0 20201027 - Build 20787 - WIN64
+newmtl shib1604
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1604.png
+
+newmtl shib1651
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1651.png
+
+newmtl shib1643
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1643.png
+
+newmtl shib1605
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1605.png
+
+newmtl shib1599
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1599.png
+
+newmtl shib1603
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1603.png
+
+newmtl shib1600
+Ks 0.333333 0.333333 0.333333
+map_Kd .\materials_textures\shib1600.png
+
